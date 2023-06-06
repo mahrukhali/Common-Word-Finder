@@ -1,6 +1,5 @@
 /**
  * Name: Mahrukh Ali
- * Uni:ma4203
  * Date: December 16,2022
  */
 import java.io.*;
